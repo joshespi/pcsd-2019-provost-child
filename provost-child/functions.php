@@ -82,7 +82,7 @@ Custom Excerpt
 ============================================================================================*/
 function get_excerpt(){
 	$excerpt = get_the_content();
-	$excerpt = preg_replace(" ([.*?])",'',$excerpt);
+	//$excerpt = preg_replace(" ([.*?])",'',$excerpt);
 	$excerpt = strip_shortcodes($excerpt);
 	$excerpt = strip_tags($excerpt);
 	$excerpt = substr($excerpt, 0, 200);
