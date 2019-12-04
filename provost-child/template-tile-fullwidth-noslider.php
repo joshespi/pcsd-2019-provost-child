@@ -72,6 +72,30 @@
 			   				<?php the_field('square_6'); ?>
 		   			</aside>
 	   			<?php }	?>
+	   			<?php if(get_field('square_7')) { ?>
+		   			<aside class="tile">
+		   				<div class="featured-image">
+		   						<img src="<?php the_field('square_7_photo'); ?>" alt="" />
+		   				</div>
+			   				<?php the_field('square_7'); ?>
+		   			</aside>
+	   			<?php }	?>
+	   			<?php if(get_field('square_8')) { ?>
+		   			<aside class="tile">
+		   				<div class="featured-image">
+		   						<img src="<?php the_field('square_8_photo'); ?>" alt="" />
+		   				</div>
+			   				<?php the_field('square_8'); ?>
+		   			</aside>
+	   			<?php }	?>
+	   			<?php if(get_field('square_9')) { ?>
+		   			<aside class="tile">
+		   				<div class="featured-image">
+		   						<img src="<?php the_field('square_9_photo'); ?>" alt="" />
+		   				</div>
+			   				<?php the_field('square_9'); ?>
+		   			</aside>
+	   			<?php }	?>
 	   		</section><!-- tiles end -->	
    		</section><!-- End .tile-page -->
 		</main>
