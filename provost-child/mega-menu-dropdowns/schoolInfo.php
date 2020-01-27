@@ -20,6 +20,10 @@
             <li class="int"><a href="https://provost.provo.edu/school-information/community-council/">Community Council</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
 		</ul>
+	<h3><img src="https://provost.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/school-info.svg" alt="" />Media Center</h3>
+		<ul>
+			<li class="int"><a href="https://provost.provo.edu/media-center/">Media Center</a></li>
+		</ul>
 </div>
 <div class="dropDownColumn">
 	<h3><img src="https://provost.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/school-meals.svg" alt="" />School Meals</h3>
