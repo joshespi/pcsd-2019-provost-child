@@ -24,5 +24,6 @@
 						<ul>
 							<li class="pdf"><a href="https://provost.provo.edu/wp-content/uploads/2018/12/Title-I-Parent-Right-to-Know-EngSpan.pdf">Title 1 Patrons right to know</a></li>
 							<li class="ext"><a href="https://provo.edu/title-i/">District Title I</a></li>
+							<li class="int"><a href="https://provost.provo.edu/wp-content/uploads/2020/01/PV_SchoolReportCard_fy19.pdf">School Report Card</a></li>
 						</ul>
 				</div>
